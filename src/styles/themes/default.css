@@ -1,0 +1,34 @@
+:root {
+  --color-base-white: #ffffff;
+  --color-base-background: #fafafa;
+  --color-base-card: #f3f2f2;
+  --color-base-input: #ededed;
+  --color-base-button: #e6e5e5;
+  --color-base-hover: #d7d5d5;
+  --color-base-label: #8d8686;
+  --color-base-text: #574f4d;
+  --color-base-subtitle: #403937;
+  --color-base-title: #272221;
+  --color-base-error: #f84747;
+  --color-brand-purple-dark: #4b2995;
+  --color-brand-purple: #8047f8;
+  --color-brand-purple-light: #ebe5f9;
+  --color-brand-yellow-dark: #c47f17;
+  --color-brand-yellow: #dbac2c;
+  --color-brand-yellow-light: #f1e9c9;
+
+  --size-title-title-xl: 3rem;
+  --size-title-title-l: 2rem;
+  --size-title-title-m: 1.5rem;
+  --size-title-title-s: 1.2rem;
+  --size-title-title-xs: 1.125rem;
+  --size-text-regular-l: 1.25rem;
+  --size-text-bold-l: 1.25rem;
+  --size-text-regular-m: 1rem;
+  --size-text-bold-m: 1rem;
+  --size-text-regular-s: 0.875rem;
+  --size-text-bold-s: 0.75rem;
+  --size-components-tag: 0.625rem;
+  --size-components-button-g: 0.875rem;
+  --size-components-button-s: 0.75rem;
+}
