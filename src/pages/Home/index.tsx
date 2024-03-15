@@ -1,7 +1,9 @@
+import { Intro } from "../components/Intro";
+
 export function HomePage() {
   return (
-    <div>
-      <h1>Home</h1>
+    <div className="mb-[9.8rem]">
+      <Intro />
     </div>
   );
 }
