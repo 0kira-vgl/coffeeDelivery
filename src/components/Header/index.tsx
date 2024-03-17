@@ -4,7 +4,7 @@ import { MapPin, ShoppingCart } from "phosphor-react";
 
 export function Header() {
   return (
-    <header className="w-full h-[6.5rem] bg-base-background flex items-center justify-center">
+    <header className="w-full h-24 bg-base-background flex items-center justify-center sticky top-0 left-0 z-[5]">
       <div className="container flex items-center justify-between">
         <img src={CoffeeDeliveryLogo} alt="Logo do Coffee Delivery" />
 
