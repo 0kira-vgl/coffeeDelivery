@@ -1,5 +1,4 @@
 import { ShoppingCart } from "phosphor-react";
-import Coffee1 from "../../../assets/coffee1.png";
 import { QuantityInput } from "../../../components/QuantityInput";
 import { formatMoney } from "../../../utils/formatMoney";
 

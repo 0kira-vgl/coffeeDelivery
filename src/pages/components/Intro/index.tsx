@@ -14,7 +14,7 @@ export function Intro() {
       <div className="flex items-center justify-between gap-14 w-full max-w-[70rem] mx-auto">
         <div>
           <section>
-            <h1 className="text-base-title text-5xl font-extrabold leading-[130%] mb-4">
+            <h1 className="text-base-title text-5xl font-extrabold leading-[130%]">
               Encontre o café perfeito para qualquer hora do dia
             </h1>
             <p className="text-base-text text-3xl font-normal leading-[130%]">

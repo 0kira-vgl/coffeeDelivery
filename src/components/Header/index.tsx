@@ -13,7 +13,7 @@ export function Header() {
             <MapPin className="text-brand-purple" size={20} weight="fill" />
             Porto Alegre, RS
           </button>
-          <button className="hover:bg-[#eecd94] duration-100 bg-brand-yellow-light text-brand-yellow-dark flex text-sm items-center justify-center gap-1 min-w-[2.3rem] h-[2.3rem] px-2 py-0 rounded-md relative">
+          <button className="hover:bg-[#f1dab1] duration-100 bg-brand-yellow-light text-brand-yellow-dark flex text-sm items-center justify-center gap-1 min-w-[2.3rem] h-[2.3rem] px-2 py-0 rounded-md relative">
             <ShoppingCart size={20} weight="fill" />
           </button>
         </div>

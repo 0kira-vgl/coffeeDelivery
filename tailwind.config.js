@@ -2,6 +2,10 @@
 export default {
   content: ["./index.html", "./src/**/*.{js,ts,jsx,tsx}"],
   theme: {
+    fontFamily: {
+      sans: ["Roboto", "sans-serif"],
+      baloo: ["Baloo 2", "sans-serif"],
+    },
     extend: {
       colors: {
         "base-white": "#ffffff",
@@ -40,5 +44,6 @@ export default {
       "size-components-button-s": "0.75rem",
     },
   },
+  variants: {},
   plugins: [],
 };
